@@ -16,7 +16,7 @@ PACKAGES REQUIRED:
 
 THIS PROJECT CONTAINS 3 FILE:
     -> color_detection.py - main source code
-    -> Colorpic.jpg - sample image for experimenting
+    -> ColorScene.jpg - sample image for experimenting
     -> Colors.csv - dataset
 
 FOR OUTPUT:
